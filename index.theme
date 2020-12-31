@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=CreatZy
+Type=X-GNOME-Metatheme
+Comment=The CreatZy one
+Encoding=UTF-8
+GtkTheme=Adwaita
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
